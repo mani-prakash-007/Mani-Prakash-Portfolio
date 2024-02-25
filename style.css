@@ -11,7 +11,7 @@ body {
   font-family: "Poppins", sans-serif;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 html {
@@ -178,6 +178,12 @@ section {
   width: 400px;
   margin: auto 0;
 }
+
+.section__pic-container-1 img {
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
 
 .section__text {
   align-self: center;
@@ -427,6 +433,11 @@ article .icon {
 
 .email-icon {
   height: 2.5rem;
+}
+
+/* Section - Contact*/
+#contact{
+  margin-top: 30vh;
 }
 
 /* FOOTER SECTION */
