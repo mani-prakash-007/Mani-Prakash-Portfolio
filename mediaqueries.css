@@ -122,5 +122,6 @@
   #contact,
   #projects {
     height: fit-content;
+    margin-bottom: 0px
   }
 }
