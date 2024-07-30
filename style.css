@@ -366,7 +366,7 @@ article .icon {
 
 #projects {
   position: relative;
-
+  margin-bottom:90vh
 }
 #projects .about-containers{
   display: flex;
@@ -400,7 +400,8 @@ article .icon {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 60vh;
+  height: 40vh;
+  position:relative;
 }
 
 .contact-info-upper-container {
